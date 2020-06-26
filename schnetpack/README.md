@@ -2,9 +2,11 @@
 [![Build Status](https://travis-ci.org/atomistic-machine-learning/schnetpack.svg?branch=master)](https://travis-ci.org/atomistic-machine-learning/schnetpack)
 [![Coverage Status](https://coveralls.io/repos/github/atomistic-machine-learning/schnetpack/badge.svg?branch=master)](https://coveralls.io/github/atomistic-machine-learning/schnetpack?branch=master)
 
-SchNetPack aims to provide accessible atomistic neural networks
+[SchNetPack](https://github.com/atomistic-machine-learning/schnetpack) aims to provide accessible atomistic neural networks
 that can be trained and applied out-of-the-box, while still being
 extensible to custom atomistic architectures. 
+
+
 
 ##### Currently provided models:
 
