@@ -13,9 +13,6 @@ extensible to custom atomistic architectures.
 - SchNet - an end-to-end continuous-filter CNN for molecules and materials [1-3]
 - wACSF - weighted atom-centered symmetry functions [4,5]
 
-_**Note: We will keep working on improving the documentation, 
-supporting more architectures and datasets and many more features.**_
-
 ##### Requirements:
 - python 3
 - ASE
