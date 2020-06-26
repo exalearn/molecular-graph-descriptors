@@ -1,0 +1,19 @@
+language: python
+
+install:
+  - pip install -r docs/sphinx-requirements.txt
+  - pip install coveralls
+  - pip install tox
+
+matrix:
+  include:
+    - python: 3.6
+      env: TOXENV=py36
+    - python: 3.6
+      env: TOXENV=qa
+
+script:
+  - tox
+
+after_success:
+  - coveralls
