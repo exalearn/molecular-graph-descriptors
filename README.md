@@ -36,10 +36,16 @@ Code amended from [SchNetPack](https://github.com/atomistic-machine-learning/sch
 Please cite this paper if you find the code and datasets useful.
 
 @article{bilbrey2020descriptors,
+
 author = {Bilbrey,Jenna A.  and Heindel,Joseph P.  and Schram,Malachi  and Bandyopadhyay,Pradipta  and Xantheas,Sotiris S.  and Choudhury,Sutanay },
+
 title = {A look inside the black box: Using graph-theoretical descriptors to interpret a Continuous-Filter Convolutional Neural Network (CF-CNN) trained on the global and local minimum energy structures of neutral water clusters},
+
 journal = {The Journal of Chemical Physics},
+
 volume = {153},
+
 number = {2},
+
 year = {2020}
 }
