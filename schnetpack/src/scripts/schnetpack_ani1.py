@@ -48,7 +48,7 @@ if __name__ == "__main__":
     logging.info("ANI1 will be loaded...")
     ani1 = spk.datasets.ANI1(
         args.datapath,
-        download=True,
+        download=False,
         properties=[train_args.property],
         collect_triples=args.model == "wacsf",
         # todo: remove
