@@ -10,6 +10,8 @@ Molecular graphs and structures of over 5 million water clusters can be found [h
 
 .xyz files of the lowest-energy structure of each cluster size *N*=3-30 and a set of 15 clusters and their predited potential energy.
 
+The formatted database for the 500k training and test sets used to train the published model can be obtained here: https://drive.google.com/file/d/1ZQNOhJnz0k_UWxc-CIIkYwE2d5o230Ad/view?usp=sharing
+
 ### graphdescriptors
 
 Code for generating graphs from molecular structures and computing various descriptors from .xyz files output from SchNetPack. The script get_descriptors.py collects a set of descriptors for all molecules in the .xyz file and outputs a csv file.
